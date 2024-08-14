@@ -9,7 +9,7 @@ module.exports = {
       addBase(
         {
           'h1': { color: 'rgb(58, 58, 58)', fontWeight: 700 },
-          'h2': { color: 'rgb(58, 58, 58)', fontWeight: 700 },
+          'h2': { color: 'rgb(58, 58, 58)', fontSize: '2.5rem', fontWeight: 700 },
           'h3': {
             color: 'rgb(24, 25, 31)', fontSize: '1.75rem', fontWeight: 500
           },
